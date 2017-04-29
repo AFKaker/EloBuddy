@@ -1,0 +1,11 @@
+c:\users\edcarlos\documents\visual studio 2015\Projects\Caitlyn - Sherry of Piltover\Caitlyn - Sherry of Piltover\bin\Debug\Caitlyn - Sherry of Piltover.exe.config
+c:\users\edcarlos\documents\visual studio 2015\Projects\Caitlyn - Sherry of Piltover\Caitlyn - Sherry of Piltover\bin\Debug\Caitlyn - Sherry of Piltover.exe
+c:\users\edcarlos\documents\visual studio 2015\Projects\Caitlyn - Sherry of Piltover\Caitlyn - Sherry of Piltover\bin\Debug\Caitlyn - Sherry of Piltover.pdb
+c:\users\edcarlos\documents\visual studio 2015\Projects\Caitlyn - Sherry of Piltover\Caitlyn - Sherry of Piltover\bin\Debug\EloBuddy.dll
+c:\users\edcarlos\documents\visual studio 2015\Projects\Caitlyn - Sherry of Piltover\Caitlyn - Sherry of Piltover\bin\Debug\EloBuddy.SDK.dll
+c:\users\edcarlos\documents\visual studio 2015\Projects\Caitlyn - Sherry of Piltover\Caitlyn - Sherry of Piltover\bin\Debug\SharpDX.dll
+c:\users\edcarlos\documents\visual studio 2015\Projects\Caitlyn - Sherry of Piltover\Caitlyn - Sherry of Piltover\bin\Debug\SharpDX.Direct3D9.dll
+c:\users\edcarlos\documents\visual studio 2015\Projects\Caitlyn - Sherry of Piltover\Caitlyn - Sherry of Piltover\bin\Debug\Newtonsoft.Json.dll
+c:\users\edcarlos\documents\visual studio 2015\Projects\Caitlyn - Sherry of Piltover\Caitlyn - Sherry of Piltover\obj\Debug\Caitlyn - Sherry of Piltover.csprojResolveAssemblyReference.cache
+c:\users\edcarlos\documents\visual studio 2015\Projects\Caitlyn - Sherry of Piltover\Caitlyn - Sherry of Piltover\obj\Debug\Caitlyn - Sherry of Piltover.exe
+c:\users\edcarlos\documents\visual studio 2015\Projects\Caitlyn - Sherry of Piltover\Caitlyn - Sherry of Piltover\obj\Debug\Caitlyn - Sherry of Piltover.pdb
